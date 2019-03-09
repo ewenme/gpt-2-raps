@@ -2,4 +2,4 @@
 if (!require("pacman")) install.packages("pacman")
 
 # oad packages
-pacman::p_load("geniusr", "purrr", "jsonlite")
+pacman::p_load("geniusr", "purrr", "readr", "glue")
