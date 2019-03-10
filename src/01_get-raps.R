@@ -4,7 +4,7 @@ source("src/00_requirements.R")
 genius_token()
 
 # get song ids
-song_ids <- scan(file = "inout/genius_song_ids.txt", character(), quote = "")
+song_ids <- scan(file = "input/genius_song_ids.txt", character(), quote = "")
 
 # get song lyrics
 song_lyrics <- map(song_ids, scrape_lyrics_id)
