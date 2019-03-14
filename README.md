@@ -4,7 +4,7 @@ A neural rap lyrics generator powered by [GPT-2](https://blog.openai.com/better-
 
 ## Example
 
-Demo running [here](https://ewenme.github.io/gpt2-raps/).
+Demo running [here](https://ewenme.github.io/gpt-2-raps/).
 
 ## Setup
 
